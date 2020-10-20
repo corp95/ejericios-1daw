@@ -20,7 +20,7 @@ namespace Ejercicio_2_6_2
 
                     num1 = num1 / contador;
 
-                    contador = 1;
+                    contador = 1; //Trabajo realizado
                 }
             }
             
