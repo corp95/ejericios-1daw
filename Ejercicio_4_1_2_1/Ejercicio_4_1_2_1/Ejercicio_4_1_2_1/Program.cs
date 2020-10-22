@@ -14,7 +14,7 @@ namespace Ejercicio_4_1_2_1
             Console.WriteLine("Introduce un día del mes (1=enero, 12=diciembre): ");
             mes = Convert.ToInt32(Console.ReadLine());
 
-            mes--;
+            mes--; //Decrementamos en 1 unidad para acceder a la posición correcta.
 
             Console.WriteLine("El mes {0} tiene {1} días", mes+1, dias[mes]);
         }
