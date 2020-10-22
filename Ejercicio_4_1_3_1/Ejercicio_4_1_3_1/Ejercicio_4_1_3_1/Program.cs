@@ -27,7 +27,7 @@ namespace Ejercicio_4_1_3_1
             numero[5] = Convert.ToInt16(Console.ReadLine());
 
             for (int i = 5; i >= 0; i--)
-                Console.Write("{0}", numero[i]);
+                Console.Write("{0}", numero[i]); //hay que poner i y no numero.
         }
     }
 }
