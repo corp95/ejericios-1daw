@@ -26,7 +26,7 @@ namespace Ejercicio_4_1_1_1
             suma = numeros[0] + numeros[1] + numeros[2] + numeros[3];
             division = suma / 4;
 
-            Console.WriteLine("El resultado es {0}", division);
+            Console.WriteLine("La media de {0}, {1}, {2} y {3}, es: {4}",numeros[0], numeros[1], numeros[2], numeros[3], division);
 
         }
     }
