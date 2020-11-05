@@ -10,7 +10,7 @@ namespace Ejercicio_4_1_3_11
             double valor = 0;
             
             for (int i=0; i<4; i++)
-            {
+            { 
                 Console.WriteLine("Introduce un número: ");
                 numero[i] = Convert.ToDouble(Console.ReadLine());
 
