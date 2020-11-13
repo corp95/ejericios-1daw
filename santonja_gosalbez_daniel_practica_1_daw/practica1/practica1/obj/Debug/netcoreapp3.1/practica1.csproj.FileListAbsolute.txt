@@ -1,0 +1,13 @@
+D:\Programacion\santonja_gosalbez_daniel_practica_1_daw\practica1\practica1\obj\Debug\netcoreapp3.1\practica1.csprojAssemblyReference.cache
+D:\Programacion\santonja_gosalbez_daniel_practica_1_daw\practica1\practica1\obj\Debug\netcoreapp3.1\practica1.AssemblyInfoInputs.cache
+D:\Programacion\santonja_gosalbez_daniel_practica_1_daw\practica1\practica1\obj\Debug\netcoreapp3.1\practica1.AssemblyInfo.cs
+D:\Programacion\santonja_gosalbez_daniel_practica_1_daw\practica1\practica1\obj\Debug\netcoreapp3.1\practica1.csproj.CoreCompileInputs.cache
+D:\Programacion\santonja_gosalbez_daniel_practica_1_daw\practica1\practica1\bin\Debug\netcoreapp3.1\practica1.exe
+D:\Programacion\santonja_gosalbez_daniel_practica_1_daw\practica1\practica1\bin\Debug\netcoreapp3.1\practica1.deps.json
+D:\Programacion\santonja_gosalbez_daniel_practica_1_daw\practica1\practica1\bin\Debug\netcoreapp3.1\practica1.runtimeconfig.json
+D:\Programacion\santonja_gosalbez_daniel_practica_1_daw\practica1\practica1\bin\Debug\netcoreapp3.1\practica1.runtimeconfig.dev.json
+D:\Programacion\santonja_gosalbez_daniel_practica_1_daw\practica1\practica1\bin\Debug\netcoreapp3.1\practica1.dll
+D:\Programacion\santonja_gosalbez_daniel_practica_1_daw\practica1\practica1\bin\Debug\netcoreapp3.1\practica1.pdb
+D:\Programacion\santonja_gosalbez_daniel_practica_1_daw\practica1\practica1\obj\Debug\netcoreapp3.1\practica1.dll
+D:\Programacion\santonja_gosalbez_daniel_practica_1_daw\practica1\practica1\obj\Debug\netcoreapp3.1\practica1.pdb
+D:\Programacion\santonja_gosalbez_daniel_practica_1_daw\practica1\practica1\obj\Debug\netcoreapp3.1\practica1.genruntimeconfig.cache
