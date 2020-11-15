@@ -15,7 +15,7 @@ namespace practica1
         {
             double numero=0; //El número con el que operar
             double numeroInicial=0; //Es el primer número que introduces, también da el resultado final de la operación.
-            char operacion='s'; //Para introducir las operaciones del switch
+            string operacion="s"; //Para introducir las operaciones del switch
 
 
             Console.Write("Introduce un número: ");
@@ -27,51 +27,50 @@ namespace practica1
                 try //Aqui iniciamos el try
                 {
                     Console.Write("Introduce una operación: ");
-                    operacion = Convert.ToChar(Console.ReadLine()); //Aqui introducimos el carácter para operar
+                    operacion = Convert.ToString(Console.ReadLine()); //Aqui introducimos el carácter para operar
 
 
                     switch (operacion) //switch con las operaciones según el char que introduzcamos
                     {
-                        case '+':
+                        case "+":      //Suma
 
                             Console.Write("Introduce un número: ");
                             numero = Convert.ToDouble(Console.ReadLine());
                             numeroInicial += numero;
                             break;
 
-                        case '-':
+                        case "-":      //Resta
 
                             Console.Write("Introduce un número: ");
                             numero = Convert.ToDouble(Console.ReadLine());
                             numeroInicial -= numero;
                             break;
 
-                        case '*':
+                        case "*":      //Multiplicación
 
                             Console.Write("Introduce un número: ");
                             numero = Convert.ToDouble(Console.ReadLine());
                             numeroInicial *= numero;
                             break;
 
-                        case '/':
+                        case "/":      //División
 
                             Console.Write("Introduce un número: ");
                             numero = Convert.ToDouble(Console.ReadLine());
                             numeroInicial /= numero;
                             break;
 
-                        case '=':
+                        case "=":      //El resultado
                             Console.Write("El resultado es {0}", numeroInicial);
                             Console.WriteLine();
                             Console.WriteLine();
-                            numeroInicial = 0;
 
-                            Console.Write("Introduce un número: ");
+                            Console.Write("Introduce un número: "); //El programa pide otro número para hacer una nueva operación.
                             numeroInicial = Convert.ToDouble(Console.ReadLine());
                             break;
 
-                        case 's':
-                            Console.Write("El resultado es {0}", numeroInicial); /*Ponemos este case para que cuando pulses 's' no solo te saque del programa
+                        case "s":
+                            Console.Write("El resultado es {0}", numeroInicial); /*Ponemos este case para que cuando pulses "s" no solo te saque del programa
                                                                                    sino que te de el resultado de la operación.*/
                             break;
 
@@ -87,11 +86,11 @@ namespace practica1
                     Console.Write("--> Número incorrecto");
                     Console.WriteLine();
                     Console.Write("Introduce un número: ");
-                    numeroInicial = Convert.ToDouble(Console.ReadLine());
+                    numero = Convert.ToDouble(Console.ReadLine());
                     
                 }
             }
-           while (operacion!='s'); //Si pulsamos una 's' en operación sale el mensaje: FIN DE PROGRAMA 
+           while (operacion!="s"); //Si pulsamos una "s" en operación sale el mensaje: FIN DE PROGRAMA 
                 {
                 Console.WriteLine();
                     Console.Write("FIN DEL PROGRAMA");
