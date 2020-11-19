@@ -1,0 +1,12 @@
+D:\Programacion\Ejercicio_removeall\Remove_All\Remove_All\obj\Debug\netcoreapp3.1\Remove_All.AssemblyInfoInputs.cache
+D:\Programacion\Ejercicio_removeall\Remove_All\Remove_All\obj\Debug\netcoreapp3.1\Remove_All.AssemblyInfo.cs
+D:\Programacion\Ejercicio_removeall\Remove_All\Remove_All\obj\Debug\netcoreapp3.1\Remove_All.csproj.CoreCompileInputs.cache
+D:\Programacion\Ejercicio_removeall\Remove_All\Remove_All\bin\Debug\netcoreapp3.1\Remove_All.exe
+D:\Programacion\Ejercicio_removeall\Remove_All\Remove_All\bin\Debug\netcoreapp3.1\Remove_All.deps.json
+D:\Programacion\Ejercicio_removeall\Remove_All\Remove_All\bin\Debug\netcoreapp3.1\Remove_All.runtimeconfig.json
+D:\Programacion\Ejercicio_removeall\Remove_All\Remove_All\bin\Debug\netcoreapp3.1\Remove_All.runtimeconfig.dev.json
+D:\Programacion\Ejercicio_removeall\Remove_All\Remove_All\bin\Debug\netcoreapp3.1\Remove_All.dll
+D:\Programacion\Ejercicio_removeall\Remove_All\Remove_All\bin\Debug\netcoreapp3.1\Remove_All.pdb
+D:\Programacion\Ejercicio_removeall\Remove_All\Remove_All\obj\Debug\netcoreapp3.1\Remove_All.dll
+D:\Programacion\Ejercicio_removeall\Remove_All\Remove_All\obj\Debug\netcoreapp3.1\Remove_All.pdb
+D:\Programacion\Ejercicio_removeall\Remove_All\Remove_All\obj\Debug\netcoreapp3.1\Remove_All.genruntimeconfig.cache

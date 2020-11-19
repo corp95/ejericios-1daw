@@ -81,6 +81,7 @@ namespace practica1
                             break;
                     }
                 }
+
                 catch (FormatException) //Salta la excepción
                 {
                     Console.Write("--> Número incorrecto");
