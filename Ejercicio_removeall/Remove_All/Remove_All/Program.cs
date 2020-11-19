@@ -28,6 +28,10 @@ namespace Remove_All
 
             }
 
+            frase = frase.TrimStart(); //Para quitar los espacios del principio.
+            frase = frase.TrimEnd(); //Para quitar los espacios del final de la frase.
+
+            Console.WriteLine();
             Console.WriteLine("{0}", frase);
         }
     }
