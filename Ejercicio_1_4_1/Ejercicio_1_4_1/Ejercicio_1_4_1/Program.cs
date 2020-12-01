@@ -6,12 +6,10 @@ namespace Ejercicio_1_4_1
     {
         static void Main(string[] args)
         {
-            int a = 118;
-            int b = 56;
-            int c = a + b;
-
-            Console.WriteLine("El resultado de sumar " + a + " + " + b + " es: " + c);
-            
+            for (int i=1; i<=10; i++)
+            {
+                Console.WriteLine("{0}", i);
+            }
         }
     }
 }

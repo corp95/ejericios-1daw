@@ -11,7 +11,7 @@ namespace practica1
         // Práctica nº 1
         // --------------------------------------------
 
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             double numero=0; //El número con el que operar
             double numeroInicial=0; //Es el primer número que introduces, también da el resultado final de la operación.
