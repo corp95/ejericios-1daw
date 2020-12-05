@@ -16,7 +16,7 @@ namespace practica_2
         {
             string cadena="0";
             string letra="0";
-           // string ahorcado;
+            int contadorIntentos = 0;
 
             Console.Write("Cadena: ");
             cadena = Convert.ToString(Console.ReadLine());
@@ -28,26 +28,22 @@ namespace practica_2
             {
                 Console.Write("Letra: ");
                 letra = Convert.ToString(Console.ReadLine());
-
                 letra = cad.ToString(); //Mirar lo de introducir una letra!!!!!!!!!!!!!!!!!!!
 
-                
-
-                for (int i=0; i<cad.Length; i++) //Esto es para mostrarte los guiones de la palabra introducida.
+                for (int i = 0; i < cad.Length; i++) //Esto es para convertir la palabra en guiones.
                 {
-                    cad[i] = '_' ;
-                    cadena = cad.ToString();
+                    cad[i] = '-';
                 }
 
-                 Console.WriteLine("{0}", cadena);
-
-               
-
+                Console.WriteLine("{0}", cadena);
 
             }
-              while ()
 
-              Console.WriteLine("R.I.P. La palabra era {0}", cadena);
+            while (contadorIntentos == 6);
+              {
+                Console.WriteLine("R.I.P. La palabra era {0}", cadena); 
+              }
+
         }
     }
 }
