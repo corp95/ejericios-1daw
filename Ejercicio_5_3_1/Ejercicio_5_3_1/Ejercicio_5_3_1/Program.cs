@@ -7,26 +7,23 @@ namespace Ejercicio_5_3_1
         static void Main(string[] args)
         {
 
-            int alto;
-            int ancho;
+            int lado;
 
-            Console.WriteLine("Introduce el alto: ");
-            alto = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Introduce el lado del cuadrado: ");
+            lado = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Introduce el ancho: ");
-            ancho = Convert.ToInt32(Console.ReadLine());
 
-            DibujarCuadrado(alto, ancho);
+            DibujarCuadrado(lado);
 
         }
 
-        public static void DibujarCuadrado(int x, int y)
+        public static void DibujarCuadrado(int x)
         {
             Console.WriteLine();
 
-            for(int i=0; i<x; i++) //Alto
+            for(int i=0; i<x; i++) 
             {                               
-                for (int j=0; j<y; j++) //Ancho
+                for (int j=0; j<x; j++) 
                 {
                     Console.Write("*");
                 }
