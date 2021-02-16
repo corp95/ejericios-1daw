@@ -1,0 +1,17 @@
+D:\Programacion\wpf\practica1\practica1\practica1\bin\Debug\practica1.exe.config
+D:\Programacion\wpf\practica1\practica1\practica1\bin\Debug\practica1.exe
+D:\Programacion\wpf\practica1\practica1\practica1\bin\Debug\practica1.pdb
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\practica1.csprojAssemblyReference.cache
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\MainWindow.g.cs
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\App.g.cs
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\practica1_MarkupCompile.cache
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\practica1_MarkupCompile.lref
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\MainWindow.baml
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\practica1.g.resources
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\practica1.Properties.Resources.resources
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\practica1.csproj.GenerateResource.cache
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\practica1.csproj.CoreCompileInputs.cache
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\practica1.exe
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\practica1.pdb
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\Window1.g.cs
+D:\Programacion\wpf\practica1\practica1\practica1\obj\Debug\Window1.baml

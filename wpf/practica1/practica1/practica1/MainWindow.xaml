@@ -1,0 +1,46 @@
+﻿<Window x:Name="WindowInicio" x:Class="practica1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:practica1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closing="WindowInicio_Closing">
+    <Grid>
+        <TextBlock x:Name="txtNombre" HorizontalAlignment="Left" Margin="59,33,0,0" TextWrapping="Wrap" Text="Nombre" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtblckNombre" HorizontalAlignment="Left" Height="23" Margin="145,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" MaxLength="32"/>
+        <TextBlock x:Name="txtPrimerApellido" HorizontalAlignment="Left" Margin="23,86,0,0" TextWrapping="Wrap" Text="Primer apellido" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtblckPrimerApellido" HorizontalAlignment="Left" Height="23" Margin="145,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" MaxLength="32"/>
+        <TextBlock x:Name="txtSegundoApellido" HorizontalAlignment="Left" Margin="10,138,0,0" TextWrapping="Wrap" Text="Segundo apellido" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtblckSegundoApellido" HorizontalAlignment="Left" Height="23" Margin="145,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" MaxLength="32"/>
+        <RadioButton x:Name="btnCliente" Content="Cliente" HorizontalAlignment="Left" Margin="375,60,0,0" VerticalAlignment="Top" GroupName="cliente_o_distribuidor" Cursor="Hand" Click="btnCliente_Click"/>
+        <RadioButton x:Name="btnDistribuidor" Content="Distribuidor" HorizontalAlignment="Left" Margin="463,60,0,0" VerticalAlignment="Top" GroupName="cliente_o_distribuidor" Cursor="Hand" Click="btnDistribuidor_Click"/>
+        <TextBlock x:Name="textPregunta" HorizontalAlignment="Left" Margin="327,19,0,0" TextWrapping="Wrap" Text="¿Eres cliente o distribuidor?" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+        <TextBlock x:Name="txtDNI" HorizontalAlignment="Left" Margin="82,193,0,0" TextWrapping="Wrap" Text="DNI" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtblckDNI" HorizontalAlignment="Left" Height="23" Margin="145,193,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" MaxLength="9"/>
+        <Button x:Name="btnAceptar" Content="Aceptar" HorizontalAlignment="Left" Margin="463,385,0,0" VerticalAlignment="Top" Width="75" Cursor="Hand" Click="btnAceptar_Click"/>
+        <Button x:Name="btnCancelar" Content="Cancelar" HorizontalAlignment="Left" Margin="299,385,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.076,-0.109" Cursor="Hand"/>
+        <TextBlock x:Name="txtTlfn1" HorizontalAlignment="Left" Margin="57,243,0,0" TextWrapping="Wrap" Text="Teléfono" VerticalAlignment="Top" RenderTransformOrigin="0.409,3.794"/>
+        <TextBox x:Name="txtblckTlfn1" HorizontalAlignment="Left" Height="23" Margin="145,243,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" MaxLength="9"/>
+        <TextBlock x:Name="txtTlfn2" HorizontalAlignment="Left" Margin="7,294,0,0" TextWrapping="Wrap" Text="Segundo teléfono" VerticalAlignment="Top" RenderTransformOrigin="0.409,3.794"/>
+        <TextBox x:Name="txtblckTlfn2" HorizontalAlignment="Left" Height="23" Margin="145,294,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" MaxLength="9"/>
+        <TextBlock x:Name="txtEmail" HorizontalAlignment="Left" Margin="327,96,0,0" TextWrapping="Wrap" Text="Correo electrónico" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtblckEmail" HorizontalAlignment="Left" Height="23" Margin="464,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="228" MaxLength="100"/>
+        <TextBlock x:Name="txtDireccion" HorizontalAlignment="Left" Margin="327,132,0,0" TextWrapping="Wrap" Text="Dirección" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtblckDireccion" HorizontalAlignment="Left" Height="23" Margin="464,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="228" MaxLength="100"/>
+        <TextBlock x:Name="txtCP" HorizontalAlignment="Left" Margin="327,171,0,0" TextWrapping="Wrap" Text="Código Postal" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtblckCP" HorizontalAlignment="Left" Height="23" Margin="464,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="228" MaxLength="5"/>
+        <TextBlock x:Name="txtPoblacion" HorizontalAlignment="Left" Margin="327,209,0,0" TextWrapping="Wrap" Text="Población" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtblckPoblacion" HorizontalAlignment="Left" Height="23" Margin="464,209,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="228" MaxLength="32"/>
+        <TextBlock x:Name="txtProvincia" HorizontalAlignment="Left" Margin="326,250,0,0" TextWrapping="Wrap" Text="Provincia" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cbProvincia" HorizontalAlignment="Left" Margin="465,250,0,0" VerticalAlignment="Top" Width="227" Cursor="Hand">
+            <ComboBoxItem Cursor="Hand" Content="Castellón"/>
+            <ComboBoxItem Cursor="Hand" Content="Valencia"/>
+            <ComboBoxItem Cursor="Hand" Content="Alicante"/>
+            <ComboBoxItem Cursor="Hand" Content="Murcia"/>
+            <ComboBoxItem Cursor="Hand" Content="Albacete"/>
+            <ComboBoxItem Cursor="Hand" Content="Cuenca"/>
+            <ComboBoxItem Cursor="Hand" Content="Teruel"/>
+        </ComboBox>
+    </Grid>
+</Window>
