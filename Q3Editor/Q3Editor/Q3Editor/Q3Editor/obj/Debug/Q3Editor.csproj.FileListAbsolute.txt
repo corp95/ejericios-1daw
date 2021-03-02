@@ -1,0 +1,15 @@
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\bin\Debug\Q3Editor.exe.config
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\bin\Debug\Q3Editor.exe
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\bin\Debug\Q3Editor.pdb
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\obj\Debug\MainWindow.g.cs
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\obj\Debug\App.g.cs
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor_MarkupCompile.cache
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor_MarkupCompile.lref
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\obj\Debug\MainWindow.baml
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.g.resources
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.Properties.Resources.resources
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.csproj.GenerateResource.cache
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.csproj.CoreCompileInputs.cache
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.exe
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.pdb
+D:\Programacion\Q3Editor\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.csprojAssemblyReference.cache

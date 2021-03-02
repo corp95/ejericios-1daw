@@ -1,0 +1,15 @@
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\bin\Debug\menu.exe.config
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\bin\Debug\menu.exe
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\bin\Debug\menu.pdb
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\obj\Debug\MainWindow.g.cs
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\obj\Debug\App.g.cs
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\obj\Debug\menu_MarkupCompile.cache
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\obj\Debug\menu_MarkupCompile.lref
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\obj\Debug\MainWindow.baml
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\obj\Debug\menu.g.resources
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\obj\Debug\menu.Properties.Resources.resources
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\obj\Debug\menu.csproj.GenerateResource.cache
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\obj\Debug\menu.exe
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\obj\Debug\menu.pdb
+D:\Programacion\wpf\ejemplo_2_menu\menu\menu\obj\Debug\menu.csprojAssemblyReference.cache
