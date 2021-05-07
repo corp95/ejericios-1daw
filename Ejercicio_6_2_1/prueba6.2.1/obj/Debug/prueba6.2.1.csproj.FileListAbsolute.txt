@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\bin\Debug\prueba6.2.1.exe.config
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\bin\Debug\prueba6.2.1.exe
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\bin\Debug\prueba6.2.1.pdb
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1_MarkupCompile.cache
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1_MarkupCompile.lref
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1.g.resources
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\obj\Debug\prueba6._2._1.Properties.Resources.resources
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1.exe
+C:\Users\User\Desktop\prueba6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1.pdb
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\bin\Debug\prueba6.2.1.exe.config
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\bin\Debug\prueba6.2.1.exe
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\bin\Debug\prueba6.2.1.pdb
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1.csprojAssemblyReference.cache
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\obj\Debug\App.g.cs
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1_MarkupCompile.cache
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1_MarkupCompile.lref
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1.g.resources
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\obj\Debug\prueba6._2._1.Properties.Resources.resources
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1.csproj.GenerateResource.cache
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1.exe
+C:\Users\User\Documents\IG Formación DAW\Asignatura - Programación - ejercicios resueltos\6.2.1\prueba6.2.1\obj\Debug\prueba6.2.1.pdb

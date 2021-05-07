@@ -1,0 +1,15 @@
+﻿<Window x:Class="AppTextos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppTextos"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid>
+            <TextBlock x:Name="txt_principal" HorizontalAlignment="Center" Margin="271,24,256.6,0" TextWrapping="Wrap" Text="Pulsa el botón para organizar clientes" VerticalAlignment="Top"/>
+            <Button x:Name="organizar_btn" Content="Organizar Clientes" HorizontalAlignment="Center" Margin="334,199,309.6,191" VerticalAlignment="Center" Width="150" Height="30"/>
+        </Grid>
+    </Grid>
+</Window>

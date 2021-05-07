@@ -1,0 +1,15 @@
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\bin\Debug\Ejercicio_6_2_4.exe.config
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\bin\Debug\Ejercicio_6_2_4.exe
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\bin\Debug\Ejercicio_6_2_4.pdb
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\obj\Debug\Ejercicio_6_2_4.csprojAssemblyReference.cache
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\obj\Debug\MainWindow.g.cs
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\obj\Debug\App.g.cs
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\obj\Debug\Ejercicio_6_2_4_MarkupCompile.cache
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\obj\Debug\Ejercicio_6_2_4_MarkupCompile.lref
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\obj\Debug\MainWindow.baml
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\obj\Debug\Ejercicio_6_2_4.g.resources
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\obj\Debug\Ejercicio_6_2_4.Properties.Resources.resources
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\obj\Debug\Ejercicio_6_2_4.csproj.GenerateResource.cache
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\obj\Debug\Ejercicio_6_2_4.csproj.CoreCompileInputs.cache
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\obj\Debug\Ejercicio_6_2_4.exe
+D:\Programacion\Ejercicio_6_2_4\Ejercicio_6_2_4\Ejercicio_6_2_4\obj\Debug\Ejercicio_6_2_4.pdb

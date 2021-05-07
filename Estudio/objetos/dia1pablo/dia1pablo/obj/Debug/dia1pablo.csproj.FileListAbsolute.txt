@@ -1,0 +1,15 @@
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\bin\Debug\dia1pablo.exe.config
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\bin\Debug\dia1pablo.exe
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\bin\Debug\dia1pablo.pdb
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\obj\Debug\dia1pablo.csprojAssemblyReference.cache
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\obj\Debug\MainWindow.g.cs
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\obj\Debug\App.g.cs
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\obj\Debug\dia1pablo_MarkupCompile.cache
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\obj\Debug\dia1pablo_MarkupCompile.lref
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\obj\Debug\MainWindow.baml
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\obj\Debug\dia1pablo.g.resources
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\obj\Debug\dia1pablo.Properties.Resources.resources
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\obj\Debug\dia1pablo.csproj.GenerateResource.cache
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\obj\Debug\dia1pablo.csproj.CoreCompileInputs.cache
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\obj\Debug\dia1pablo.exe
+D:\Programacion\Estudio\objetos\dia1pablo\dia1pablo\obj\Debug\dia1pablo.pdb
